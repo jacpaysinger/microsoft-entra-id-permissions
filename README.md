@@ -3,6 +3,13 @@
 ## Project Overview
 This lab explores role-based access control (RBAC) in Microsoft Entra ID by assigning different permission levels and observing their effects. By completing this lab, I aim to gain a deeper understanding of how different roles impact access to resources at various levels: tenant, subscription, and resource group.
 
+## Objectives
+
+- Understand and implement **Role-Based Access Control (RBAC)** in Microsoft Entra ID.
+- Configure and observe effects of **Tenant-Level Global Reader**, **Subscription-Level Reader**, and **Resource Group Contributor** roles.
+- Identify the scope and limitations of each assigned role within **Microsoft Entra ID**.
+- Analyze and document access permissions at **tenant, subscription, and resource group levels**.
+
 ## Technologies Used
 - Microsoft Entra ID
 - Microsoft Azure Portal
